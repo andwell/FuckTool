@@ -5,7 +5,7 @@ This is a fucking fuck tool to help our workmates using project more quickly.
 To install, open up your terminal and paste this:
 
 ``` bash
-curl -fsSL https://github.com/andwell/FuckTool/install.sh | sh
+curl -fsSL http://iosguo.com/tools/install.sh | sh
 ```
 
 ## Helps
